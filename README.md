@@ -29,6 +29,10 @@ I am looking for a **data analyst or data scientist** role. I like taking a prob
 
 ### Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,nestjs,nextjs,ts,docker,git,postgres,flutter&perline=10" alt="Tools">
+</p>
+
 **Data & ML:** pandas, NumPy, scikit-learn, SMOTE, PCA · **LLMs:** LangGraph, RAG, Gemini, Azure OpenAI · **Backend:** FastAPI, NestJS · **Other:** Docker, Git
 
 ### Contact
