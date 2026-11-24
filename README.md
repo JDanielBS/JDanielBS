@@ -1,5 +1,5 @@
 <h1 align="center">José Daniel Bermúdez Salgado</h1>
-<p align="center"><b>Ciencia de datos e IA</b> · Estudiante de Ingeniería de Sistemas · Universidad Nacional de Colombia</p>
+<p align="center"><b>Ciencia de datos e IA</b> · Estudiante de Ingeniería de Sistemas · Universidad de Caldas</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
