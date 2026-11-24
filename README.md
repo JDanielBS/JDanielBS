@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -29,7 +30,7 @@ Busco un puesto como **analista o científico de datos**. Me interesa llevar un 
 ### 🧰 Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,fastapi,nestjs,nextjs,ts,docker,git,postgres,flutter&perline=12" alt="Herramientas">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,nestjs,nextjs,ts,docker,git,postgres,flutter&perline=10" alt="Herramientas">
 </p>
 
 **Datos y ML:** pandas, NumPy, scikit-learn, SMOTE, PCA · **LLMs:** LangGraph, RAG, Gemini, Azure OpenAI · **Backend:** FastAPI, NestJS · **Otros:** Docker, Git
