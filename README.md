@@ -13,11 +13,11 @@
 
 ---
 
-### 👋 About me
+### About me
 
 I am looking for a **data analyst or data scientist** role. I like taking a problem from raw data to a model or analysis I can defend: cleaning, model comparison, honest metrics and documentation. I have also built LLM systems (agents, RAG) and APIs.
 
-### 🔬 Featured projects
+### Featured projects
 
 | Project | What it does | Tech |
 | :-- | :-- | :-- |
@@ -27,14 +27,10 @@ I am looking for a **data analyst or data scientist** role. I like taking a prob
 | [**Chatbot**](https://github.com/JDanielBS/Chatbot) | Gemini chatbot with per-call token and cost logging. | Python, Docker, Gemini |
 | [**FocusLock**](https://github.com/JDanielBS/FocusLock) | App and website blocker for Windows, with an optional lock mode. | Python |
 
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,nestjs,nextjs,ts,docker,git,postgres,flutter&perline=10" alt="Tools">
-</p>
+### Tools
 
 **Data & ML:** pandas, NumPy, scikit-learn, SMOTE, PCA · **LLMs:** LangGraph, RAG, Gemini, Azure OpenAI · **Backend:** FastAPI, NestJS · **Other:** Docker, Git
 
-### 📫 Contact
+### Contact
 
 [Certificates and records](https://drive.google.com/drive/folders/1u5UFEI8uDrEoofS2NuUY3vRMtjfNAxar?usp=sharing)
